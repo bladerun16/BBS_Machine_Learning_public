@@ -7,3 +7,6 @@
 
 ## Slides presented in class
 New pdf files will be added every week
+
+## Optional contents
+The word __Optional__ on a slide (usually in the upper right corner near the title) means that the content is not required for the exam and ignoring it will not limit your understanding.
