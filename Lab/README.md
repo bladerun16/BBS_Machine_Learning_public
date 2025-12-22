@@ -16,5 +16,5 @@ Each lab session will be organised as follows:
 		- the expected output of the cell
 	- the html file is just the static version of the notebook, you can use it as a reference to compare the outputs that you generate with the expected ones
 - the `data` folder will contain the data used in the assignments
-- the `solutions` folder will contain the complete solutions, posted before each new lab
+- the __solution__ of the previous lab will be added to the respective lab folder before the new lab
 		 
