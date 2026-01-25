@@ -12,11 +12,13 @@ New pdf files will be added every week
 The word __Optional__ on a slide (usually in the upper right corner near the title) means that the content is not required for the exam and ignoring it will not limit your understanding.
 
 ## Schedule (prefix: machineLearning-)
-1. intro
-2. data
-3. classification-DT
-4. classification-evaluation (1-45)
-5. classification-evaluation (46-end)
-6. classification-beyond-dt
-   - the pages labelled "Optional" are not required for the exam, but are useful for general information
-7. regression
+|date|Subject|
+| --- |:----|
+|a.| intro|
+|b.| data |
+|c.| classification-DT|
+|d.|classification-evaluation (1-45)|
+|e.|classification-evaluation (46-end)|
+|f.| classification-beyond-dt; the pages labelled "Optional" are not required for the exam, but are useful for general information|
+|07/01/2026 |regression|
+|12/01/2026 |clustering with kMeans (some parts will be reviewed)|
