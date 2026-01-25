@@ -21,4 +21,5 @@ The word __Optional__ on a slide (usually in the upper right corner near the tit
 |e.|classification-evaluation (46-end)|
 |f.| classification-beyond-dt; the pages labelled "Optional" are not required for the exam, but are useful for general information|
 |07/01/2026 |regression|
-|12/01/2026 |clustering with kMeans (some parts will be reviewed)|
+|12/01/2026 |clustering with kMeans - evaluation of clustering (some parts will be reviewed)|
+|26/01/2026 |evaluation of clustering - clustering with other methods - feature selection|
